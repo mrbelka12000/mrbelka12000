@@ -1,4 +1,4 @@
-package main
+package exam
 
 import "fmt"
 
