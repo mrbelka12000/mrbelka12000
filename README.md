@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mrbelka12000" alt="mrbelka12000" /></a> </p>
 
-- 🌱 I’m currently learning **K8s**
+- 🌱 I’m currently learning **Domain logic patterns**
 
 - 🤝 I’m looking for help with **DDD**
 
