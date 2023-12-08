@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mrbelka12000" alt="mrbelka12000" /></a> </p>
 
-- 🌱 I’m currently reading **The Are of Computer Programming By Donald Knuth**
+- 🌱 I’m currently reading ** Олимпиадные задачи по программированию by Fedor Menshikov **
 
 - 🤝 I’m looking for help with **DDD**
 
