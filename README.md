@@ -20,4 +20,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mrbelka12000&show_icons=true&theme=dark&locale=en" alt="mrbelka12000" /></p>
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/mrbelka12000?theme=nord&font=Nunito%20Sans&ext=heatmap)
+![LeetCode Stats](https://leetcard.jacoblin.cool/mrbelka12000?theme=nord&font=Nunito%20Sans&ext=heatmap&cache=0)
