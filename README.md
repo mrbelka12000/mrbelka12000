@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mrbelka12000" alt="mrbelka12000" /></a> </p>
 
-- 🌱 I’m currently learning **Олимпиадные задачи по программированию by Fedor Menshikov**
+- 🌱 I’m currently learning **nothing**
 
 - 💬 Ask me about **Golang, DSA**
 
