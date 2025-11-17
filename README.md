@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mrbelka12000" alt="mrbelka12000" /></a> </p>
 # 💫 About Me:
-🌱 I’m currently learning nothing<br><br>💬 Ask me about Golang, DSA<br><br>📫 How to reach me karshyga.beknur@gmail.com
+🌱 I’m currently learning Ultimate Go programming(part 2)<br><br>💬 Ask me about Golang, DSA<br><br>📫 How to reach me karshyga.beknur@gmail.com
 
 
 ## 🌐 Socials:
