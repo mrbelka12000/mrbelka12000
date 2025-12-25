@@ -17,9 +17,6 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=mrbelka12000&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=mrbelka12000&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-## 🏆 GitHub Trophies:
-![](https://github-profile-trophy.vercel.app/?username=mrbelka12000&theme=nord&no-frame=false&no-bg=true&margin-w=4)
-
 ## 🧠 Leetcode Stats:
 <div align="left">
   <img src="https://leetcard.jacoblin.cool/mrbelka12000?theme=dark&font=Baloo&ext=heatmap" alt="LeetCode Stats" />
