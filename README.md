@@ -2,7 +2,7 @@
 <h3 align="center">Software engineer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mrbelka12000&label=Profile%20views&color=0e75b6&style=flat" alt="mrbelka12000" /> </p>
-![LeetcodeStats](https://leetcard.jacoblin.cool/mrbelka12000?ext=heatmap&cache=0&theme=wtf)
+![](https://leetcard.jacoblin.cool/mrbelka12000?theme=wtf)
 
 
 # 💫 About Me:
