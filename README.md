@@ -3,7 +3,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mrbelka12000&label=Profile%20views&color=0e75b6&style=flat" alt="mrbelka12000" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mrbelka12000" alt="mrbelka12000" /></a> </p>
+![](https://leetcard.jacoblin.cool/mrbelka12000?ext=heatmap&cache=0&theme=wtf)
+
 # 💫 About Me:
 🌱 I’m currently learning Ultimate Go programming(part 2)<br><br>💬 Ask me about Golang, DSA<br><br>📫 How to reach me karshyga.beknur@gmail.com
 
