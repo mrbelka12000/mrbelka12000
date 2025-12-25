@@ -2,8 +2,9 @@
 <h3 align="center">Software engineer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mrbelka12000&label=Profile%20views&color=0e75b6&style=flat" alt="mrbelka12000" /> </p>
-![](https://leetcard.jacoblin.cool/mrbelka12000?theme=wtf)
-
+<div align="center">
+  <img src="https://leetcard.jacoblin.cool/mrbelka12000?theme=dark&font=Baloo&ext=heatmap" alt="LeetCode Stats" />
+</div>
 
 # 💫 About Me:
 🌱 I’m currently learning System Design concepts<br><br>💬 Ask me about Golang, DSA<br><br>📫 How to reach me karshyga.beknur@gmail.com
