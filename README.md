@@ -2,9 +2,6 @@
 <h3 align="center">Software engineer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mrbelka12000&label=Profile%20views&color=0e75b6&style=flat" alt="mrbelka12000" /> </p>
-<div align="center">
-  <img src="https://leetcard.jacoblin.cool/mrbelka12000?theme=dark&font=Baloo&ext=heatmap" alt="LeetCode Stats" />
-</div>
 
 # 💫 About Me:
 🌱 I’m currently learning System Design concepts<br><br>💬 Ask me about Golang, DSA<br><br>📫 How to reach me karshyga.beknur@gmail.com
@@ -20,10 +17,16 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=mrbelka12000&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=mrbelka12000&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-## 🏆 GitHub Trophies
+## 🏆 GitHub Trophies:
 ![](https://github-profile-trophy.vercel.app/?username=mrbelka12000&theme=nord&no-frame=false&no-bg=true&margin-w=4)
 
-### 🔝 Top Contributed Repo
+## 🧠 Leetcode Stats:
+<div align="left">
+  <img src="https://leetcard.jacoblin.cool/mrbelka12000?theme=dark&font=Baloo&ext=heatmap" alt="LeetCode Stats" />
+</div>
+
+
+### 🔝 Top Contributed Repo:
 ![](https://github-contributor-stats.vercel.app/api?username=mrbelka12000&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
