@@ -1,0 +1,273 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Beknur Karshyga - Software Engineer</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <!-- Navigation -->
+    <nav id="navbar">
+        <div class="nav-container">
+            <div class="nav-logo">BK</div>
+            <ul class="nav-menu">
+                <li><a href="#home" class="nav-link">Home</a></li>
+                <li><a href="#about" class="nav-link">About</a></li>
+                <li><a href="#experience" class="nav-link">Experience</a></li>
+                <li><a href="#skills" class="nav-link">Skills</a></li>
+                <li><a href="#contact" class="nav-link">Contact</a></li>
+            </ul>
+            <button class="theme-toggle" id="theme-toggle" aria-label="Toggle theme">
+                <span class="sun-icon">☀️</span>
+                <span class="moon-icon">🌙</span>
+            </button>
+        </div>
+    </nav>
+
+    <!-- Hero Section -->
+    <section id="home" class="section hero">
+        <div class="container">
+            <div class="hero-content">
+                <h1 class="hero-title">Beknur Karshyga</h1>
+                <p class="hero-subtitle">Software Engineer</p>
+                <p class="hero-description">Integration specialist building scalable microservices and solving complex problems</p>
+                <div class="hero-buttons">
+                    <a href="#contact" class="btn btn-primary">Get In Touch</a>
+                    <a href="assets/Beknur Karshyga SWE.pdf" class="btn btn-secondary" download>Download CV</a>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- About Section -->
+    <section id="about" class="section">
+        <div class="container">
+            <h2 class="section-title">About Me</h2>
+            <div class="about-content">
+                <p>I'm a passionate software engineer specializing in Go development with 4+ years of experience building scalable microservices and distributed systems. Currently working as a Software Engineer (Integration Specialist) at Plata Card in Limassol, Cyprus.</p>
+                <p>I have a strong background in backend development, system architecture, and team leadership. I'm constantly learning about System Design concepts and enjoy mentoring others in their technical journey.</p>
+                <div class="about-highlights">
+                    <div class="highlight-item">
+                        <span class="highlight-number">4+</span>
+                        <span class="highlight-label">Years Experience</span>
+                    </div>
+                    <div class="highlight-item">
+                        <span class="highlight-number">20+</span>
+                        <span class="highlight-label">Students Mentored</span>
+                    </div>
+                    <div class="highlight-item">
+                        <span class="highlight-number">1000+</span>
+                        <span class="highlight-label">LeetCode Problems Solved</span>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Experience Section -->
+    <section id="experience" class="section">
+        <div class="container">
+            <h2 class="section-title">Experience</h2>
+            <div class="timeline">
+                <!-- Plata Card -->
+                <div class="timeline-item">
+                    <div class="timeline-marker"></div>
+                    <div class="timeline-content">
+                        <div class="timeline-header">
+                            <h3>Software Engineer</h3>
+                            <span class="timeline-date">Jan 2026 – Present</span>
+                        </div>
+                        <h4 class="company">Plata Card · Limassol, CY</h4>
+                        <ul class="timeline-list">
+                            <li>Integration specialist focused on building and maintaining third-party service integrations</li>
+                            <li>Developing robust API integrations with payment gateways and financial service providers</li>
+                            <li>Designing scalable integration architectures using Go microservices</li>
+                            <li>Ensuring high availability and reliability of integration pipelines</li>
+                        </ul>
+                    </div>
+                </div>
+
+                <!-- Bereke Bank -->
+                <div class="timeline-item">
+                    <div class="timeline-marker"></div>
+                    <div class="timeline-content">
+                        <div class="timeline-header">
+                            <h3>Senior Go Developer</h3>
+                            <span class="timeline-date">June 2025 – Dec 2025</span>
+                        </div>
+                        <h4 class="company">Bereke Bank · Astana, KZ</h4>
+                        <ul class="timeline-list">
+                            <li>Built and supported Go microservices integrating with PostgreSQL, Redis, Kafka, and internal APIs</li>
+                            <li>Automated customer appeals creation through event-driven pipeline using Apache Kafka</li>
+                            <li>Optimized complex SQL queries (joins, CTEs) for CRM, legal, and customer data workflows</li>
+                            <li>Cleaned up architectural and technical debt, improving system stability and maintainability</li>
+                        </ul>
+                    </div>
+                </div>
+
+                <!-- Armenotech/APS -->
+                <div class="timeline-item">
+                    <div class="timeline-marker"></div>
+                    <div class="timeline-content">
+                        <div class="timeline-header">
+                            <h3>Mid-level Go Developer</h3>
+                            <span class="timeline-date">June 2022 – June 2025</span>
+                        </div>
+                        <h4 class="company">Armenotech/APS · Limassol, CY</h4>
+                        <ul class="timeline-list">
+                            <li>Increased conversion rate from 10% to 80% for Australian merchants</li>
+                            <li>Integrated cryptocurrency exchange for automatic transaction confirmation</li>
+                            <li>Reduced development time from 3 weeks to 5 days by merging 17 integrations</li>
+                            <li>Achieved 76% test coverage, improving code readability and bug detection</li>
+                            <li>Developed QR code payment service for Kenyan partners integration</li>
+                            <li>Maintained transaction status service, replacing four services and speeding up changes by 400%</li>
+                        </ul>
+                    </div>
+                </div>
+
+                <!-- Agricultural Service -->
+                <div class="timeline-item">
+                    <div class="timeline-marker"></div>
+                    <div class="timeline-content">
+                        <div class="timeline-header">
+                            <h3>Engineering Team Lead</h3>
+                            <span class="timeline-date">Nov 2021 – June 2022</span>
+                        </div>
+                        <h4 class="company">Agricultural Service · Astana, KZ</h4>
+                        <ul class="timeline-list">
+                            <li>Managed a development team of 4 people</li>
+                            <li>Reduced deployment time by 50% using GitHub Actions and Docker</li>
+                            <li>Accelerated order delivery from 10 minutes to 2 minutes</li>
+                            <li>Introduced Prometheus metrics with Grafana dashboards for real-time monitoring</li>
+                        </ul>
+                    </div>
+                </div>
+
+                <!-- Kassa24 -->
+                <div class="timeline-item">
+                    <div class="timeline-marker"></div>
+                    <div class="timeline-content">
+                        <div class="timeline-header">
+                            <h3>Junior Go Developer</h3>
+                            <span class="timeline-date">Feb 2021 – Nov 2021</span>
+                        </div>
+                        <h4 class="company">Kassa24 · Almaty, KZ</h4>
+                        <ul class="timeline-list">
+                            <li>Improved functionality and fixed bugs for 13 banks</li>
+                            <li>Eradicated PCI-DSS vulnerabilities by hashing personal information</li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Skills Section -->
+    <section id="skills" class="section">
+        <div class="container">
+            <h2 class="section-title">Skills & Technologies</h2>
+            <div class="skills-grid">
+                <div class="skill-category">
+                    <h3 class="skill-category-title">Languages</h3>
+                    <div class="skill-tags">
+                        <span class="skill-tag">Go</span>
+                        <span class="skill-tag">JavaScript</span>
+                        <span class="skill-tag">SQL</span>
+                        <span class="skill-tag">Python</span>
+                    </div>
+                </div>
+                <div class="skill-category">
+                    <h3 class="skill-category-title">Backend & APIs</h3>
+                    <div class="skill-tags">
+                        <span class="skill-tag">REST API</span>
+                        <span class="skill-tag">gRPC</span>
+                        <span class="skill-tag">GraphQL</span>
+                    </div>
+                </div>
+                <div class="skill-category">
+                    <h3 class="skill-category-title">Databases</h3>
+                    <div class="skill-tags">
+                        <span class="skill-tag">PostgreSQL</span>
+                        <span class="skill-tag">MongoDB</span>
+                        <span class="skill-tag">Redis</span>
+                        <span class="skill-tag">DynamoDB</span>
+                    </div>
+                </div>
+                <div class="skill-category">
+                    <h3 class="skill-category-title">Message Brokers</h3>
+                    <div class="skill-tags">
+                        <span class="skill-tag">Apache Kafka</span>
+                        <span class="skill-tag">NATS</span>
+                        <span class="skill-tag">RabbitMQ</span>
+                    </div>
+                </div>
+                <div class="skill-category">
+                    <h3 class="skill-category-title">DevOps & Cloud</h3>
+                    <div class="skill-tags">
+                        <span class="skill-tag">Docker</span>
+                        <span class="skill-tag">Kubernetes</span>
+                        <span class="skill-tag">AWS</span>
+                        <span class="skill-tag">CI/CD</span>
+                    </div>
+                </div>
+                <div class="skill-category">
+                    <h3 class="skill-category-title">Monitoring</h3>
+                    <div class="skill-tags">
+                        <span class="skill-tag">Prometheus</span>
+                        <span class="skill-tag">Grafana</span>
+                        <span class="skill-tag">ELK Stack</span>
+                        <span class="skill-tag">Jaeger</span>
+                    </div>
+                </div>
+                <div class="skill-category">
+                    <h3 class="skill-category-title">Soft Skills</h3>
+                    <div class="skill-tags">
+                        <span class="skill-tag">Leadership</span>
+                        <span class="skill-tag">Strategic Thinking</span>
+                        <span class="skill-tag">Mentoring</span>
+                        <span class="skill-tag">Communication</span>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Contact Section -->
+    <section id="contact" class="section">
+        <div class="container">
+            <h2 class="section-title">Get In Touch</h2>
+            <div class="contact-content">
+                <p class="contact-description">I'm always open to discussing new opportunities, collaborations, or just having a chat about technology.</p>
+                <div class="contact-links">
+                    <a href="mailto:karshyga.beknur@gmail.com" class="contact-link">
+                        <span class="contact-icon">📧</span>
+                        <span>karshyga.beknur@gmail.com</span>
+                    </a>
+                    <a href="https://www.linkedin.com/in/beknur-karshyga/" target="_blank" class="contact-link">
+                        <span class="contact-icon">💼</span>
+                        <span>LinkedIn</span>
+                    </a>
+                    <a href="https://github.com/mrbelka12000" target="_blank" class="contact-link">
+                        <span class="contact-icon">💻</span>
+                        <span>GitHub</span>
+                    </a>
+                    <a href="tel:+77082280636" class="contact-link">
+                        <span class="contact-icon">📱</span>
+                        <span>+7 708 228 0636</span>
+                    </a>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Footer -->
+    <footer class="footer">
+        <div class="container">
+            <p>&copy; 2025 Beknur Karshyga. Built with passion for clean code.</p>
+        </div>
+    </footer>
+
+    <script src="script.js"></script>
+</body>
+</html>
